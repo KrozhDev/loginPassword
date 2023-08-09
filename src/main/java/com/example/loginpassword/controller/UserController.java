@@ -24,7 +24,6 @@ public class UserController {
     @GetMapping("/login")
     public ResponseEntity<?> login(@RequestParam("name") String name,
                                       @RequestParam("password") String password) {
-
         try {
             User user = userService.login(name, password).orElseThrow();
             return ResponseEntity.ok(user);
