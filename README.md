@@ -6,4 +6,4 @@
 
 ## Stack:
 
-### Java, Spring Boot, Spring MVC, Maven, Lombok, PostgreSql 
+### Java, Spring Boot, Spring MVC, Maven, Lombok, Sql, Hibernate 
