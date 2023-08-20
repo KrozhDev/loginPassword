@@ -1,9 +1,9 @@
-## loginPassword
+#### loginPassword
 
-### Description:
+##### Description:
 
-#### Spring MVC web-application verifies user by login and password from database
+Spring MVC web-application verifies user by login and password from database
 
-### Stack:
+#### Stack:
 
-#### Java, Spring Boot, Spring MVC, Maven, Lombok, Sql, Hibernate 
+Java, Spring Boot, Spring MVC, Maven, Lombok, Sql, Hibernate 
